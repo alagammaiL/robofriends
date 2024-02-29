@@ -1,0 +1,15 @@
+.flexBox{
+    display: flex;
+    flex-wrap: wrap;
+}
+body{
+   background-image:linear-gradient(to right,#036E71,#09204B); 
+}
+.headingStyle{
+    font-size: 2rem;
+    color: #0EC4C0;
+    font-family: "Tapestry";
+    font-weight: 400;
+    text-align: center;
+    margin-top: 10px;
+}

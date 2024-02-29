@@ -1,0 +1,26 @@
+.scrollbarAdd{
+    overflow-y: scroll;
+    height: 40vh;
+    border: 1px solid black;
+}
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0px 0px 10px whitesmoke; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #94E6C8; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #94E6C8; 
+  }
+  

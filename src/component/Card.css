@@ -1,0 +1,22 @@
+.nameStyle{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+    margin:0px;
+}
+.emailStyle{
+   text-align: center; 
+   font-size: 12px;
+   margin:0px
+}
+
+.cardBackColor{
+    background-color: #94E6C8;
+    border-radius: 5px;
+    transition:all 1s;
+    margin: 10px;
+    
+}
+.cardBackColor:hover{
+transform: scale(1.1);
+}
